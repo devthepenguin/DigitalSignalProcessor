@@ -1,5 +1,7 @@
 # DigitalSignalProcessor
 
+Digital Signal Processing routines begin with a discrete-time quantized signal that appears as a sequence of digital values. The digital processing operation is divided into following parts- an input sequence, the operator, and an output sequence.
+
 ## Disk Data Format
 
 <p align="center">
